@@ -1,0 +1,6 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\OddNumber\obj\Debug\11.Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\OddNumber\obj\Debug\OddNumber.pdb

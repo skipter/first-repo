@@ -1,0 +1,6 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\obj\Debug\13. Game Of Numbers.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

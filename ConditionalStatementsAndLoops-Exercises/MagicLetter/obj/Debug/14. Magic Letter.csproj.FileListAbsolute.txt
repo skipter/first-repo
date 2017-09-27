@@ -1,0 +1,6 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\MagicLetter\bin\Debug\MagicLetter.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\MagicLetter\bin\Debug\MagicLetter.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\MagicLetter\bin\Debug\MagicLetter.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\MagicLetter\obj\Debug\14. Magic Letter.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\MagicLetter\obj\Debug\MagicLetter.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\MagicLetter\obj\Debug\MagicLetter.pdb

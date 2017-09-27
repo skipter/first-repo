@@ -1,0 +1,6 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\MultiplicationTable\obj\Debug\09.Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

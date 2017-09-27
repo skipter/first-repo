@@ -1,0 +1,6 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\bin\Debug\CakeIngredients.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\bin\Debug\CakeIngredients.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\obj\Debug\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\obj\Debug\CakeIngredients.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CakeIngredients\obj\Debug\CakeIngredients.pdb

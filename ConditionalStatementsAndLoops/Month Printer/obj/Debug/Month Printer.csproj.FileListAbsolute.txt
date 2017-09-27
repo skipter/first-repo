@@ -1,0 +1,6 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Month Printer\bin\Debug\Month Printer.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Month Printer\bin\Debug\Month Printer.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Month Printer\bin\Debug\Month Printer.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Month Printer\obj\Debug\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Month Printer\obj\Debug\Month Printer.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Month Printer\obj\Debug\Month Printer.pdb

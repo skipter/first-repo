@@ -1,0 +1,7 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\bin\Debug\Theatre Promotions.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\bin\Debug\Theatre Promotions.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\bin\Debug\Theatre Promotions.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\obj\Debug\06.Promotions.csprojResolveAssemblyReference.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\obj\Debug\06.Promotions.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\obj\Debug\Theatre Promotions.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\Theatre Promotions\obj\Debug\Theatre Promotions.pdb

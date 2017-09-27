@@ -1,0 +1,7 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\08.Sum Of Odd Numbers.csprojResolveAssemblyReference.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\08.Sum Of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

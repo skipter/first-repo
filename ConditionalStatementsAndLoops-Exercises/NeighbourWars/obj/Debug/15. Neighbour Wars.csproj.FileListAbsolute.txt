@@ -1,0 +1,7 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\bin\Debug\NeighbourWars.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\bin\Debug\NeighbourWars.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\obj\Debug\15. Neighbour Wars.csprojResolveAssemblyReference.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\obj\Debug\15. Neighbour Wars.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\obj\Debug\NeighbourWars.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\NeighbourWars\obj\Debug\NeighbourWars.pdb

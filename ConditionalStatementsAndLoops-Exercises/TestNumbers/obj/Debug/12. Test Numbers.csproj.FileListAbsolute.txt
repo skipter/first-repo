@@ -1,0 +1,6 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TestNumbers\bin\Debug\TestNumbers.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TestNumbers\bin\Debug\TestNumbers.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TestNumbers\bin\Debug\TestNumbers.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TestNumbers\obj\Debug\12. Test Numbers.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TestNumbers\obj\Debug\TestNumbers.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\TestNumbers\obj\Debug\TestNumbers.pdb

@@ -1,0 +1,7 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\bin\Debug\CounterTheIntegers.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\bin\Debug\CounterTheIntegers.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\bin\Debug\CounterTheIntegers.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\obj\Debug\09. Counter The Integers.csprojResolveAssemblyReference.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\obj\Debug\09. Counter The Integers.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\obj\Debug\CounterTheIntegers.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\CounterTheIntegers\obj\Debug\CounterTheIntegers.pdb

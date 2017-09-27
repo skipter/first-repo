@@ -1,0 +1,6 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Chhose A Drink 2\obj\Debug\02. Choose A Drink 2.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Chhose A Drink 2\bin\Debug\Chhose A Drink 2.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Chhose A Drink 2\bin\Debug\Chhose A Drink 2.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Chhose A Drink 2\bin\Debug\Chhose A Drink 2.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Chhose A Drink 2\obj\Debug\Chhose A Drink 2.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Chhose A Drink 2\obj\Debug\Chhose A Drink 2.pdb

@@ -1,0 +1,6 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\ForeignLanguages\obj\Debug\05.Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\ConditionalStatementsAndLoops\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

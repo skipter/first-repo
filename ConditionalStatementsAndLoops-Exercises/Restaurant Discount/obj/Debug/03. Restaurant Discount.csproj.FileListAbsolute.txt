@@ -1,0 +1,6 @@
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Restaurant Discount\bin\Debug\Restaurant Discount.exe.config
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Restaurant Discount\bin\Debug\Restaurant Discount.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Restaurant Discount\bin\Debug\Restaurant Discount.pdb
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Restaurant Discount\obj\Debug\03. Restaurant Discount.csproj.CoreCompileInputs.cache
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Restaurant Discount\obj\Debug\Restaurant Discount.exe
+c:\users\b0\documents\visual studio 2017\Projects\ConditionalStatementsAndLoops-Exercises\Restaurant Discount\obj\Debug\Restaurant Discount.pdb
