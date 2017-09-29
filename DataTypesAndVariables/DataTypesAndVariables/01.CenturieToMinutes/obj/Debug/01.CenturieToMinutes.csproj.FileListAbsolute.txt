@@ -1,0 +1,7 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\bin\Debug\01.CenturieToMinutes.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\bin\Debug\01.CenturieToMinutes.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\bin\Debug\01.CenturieToMinutes.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\obj\Debug\01.CenturieToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\obj\Debug\01.CenturieToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\obj\Debug\01.CenturieToMinutes.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\01.CenturieToMinutes\obj\Debug\01.CenturieToMinutes.pdb

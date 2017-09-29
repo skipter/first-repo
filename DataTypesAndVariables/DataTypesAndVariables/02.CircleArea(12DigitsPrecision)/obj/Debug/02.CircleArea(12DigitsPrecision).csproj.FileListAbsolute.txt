@@ -1,0 +1,6 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\02.CircleArea(12DigitsPrecision)\bin\Debug\02.CircleArea(12DigitsPrecision).exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\02.CircleArea(12DigitsPrecision)\bin\Debug\02.CircleArea(12DigitsPrecision).exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\02.CircleArea(12DigitsPrecision)\bin\Debug\02.CircleArea(12DigitsPrecision).pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\02.CircleArea(12DigitsPrecision)\obj\Debug\02.CircleArea(12DigitsPrecision).csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\02.CircleArea(12DigitsPrecision)\obj\Debug\02.CircleArea(12DigitsPrecision).exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\02.CircleArea(12DigitsPrecision)\obj\Debug\02.CircleArea(12DigitsPrecision).pdb

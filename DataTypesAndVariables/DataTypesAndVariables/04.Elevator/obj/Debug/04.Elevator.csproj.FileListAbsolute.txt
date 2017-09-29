@@ -1,0 +1,7 @@
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\bin\Debug\04.Elevator.exe.config
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\bin\Debug\04.Elevator.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\bin\Debug\04.Elevator.pdb
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.csprojResolveAssemblyReference.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.exe
+C:\Users\b0\Documents\Visual Studio 2017\Projects\Fundamentals\DataTypesAndVariables\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.pdb
